@@ -125,7 +125,7 @@ body {
 /* hero section styles */
 
 #hero {
-  background-image: url();
+  background-image: url(images/hero3.jpg);
   background-color: #000;
   width: 100%;
   height: 101vh;
